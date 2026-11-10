@@ -1,4 +1,5 @@
 # AutoSplit64Enhanced
+# THIS PROJECT WILL NOT RECIEVE ANY UPDATES
 
 AutoSplit64Enhanced is an experimental local customization of Kainev's AutoSplit64 rewrite for Super Mario 64 speedruns. This README records the changes made in that local build. This GitHub fork contains the upstream code and these project notes.
 
